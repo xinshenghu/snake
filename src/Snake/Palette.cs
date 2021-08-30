@@ -103,7 +103,7 @@ namespace Snake
                 }
                 if (redo == false)
                 {
-                    food = new Block(Color.Black, this.size, new Point(x, y));
+                    food = new Block(Color.Green, this.size, new Point(x, y));
                     break;
                 }
             }

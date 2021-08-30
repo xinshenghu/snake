@@ -41,3 +41,12 @@ C:\BaiduNetdiskDownload\2012-03-19 贪吃蛇\src\Snake\obj\x86\Debug\Snake.cspro
 C:\BaiduNetdiskDownload\2012-03-19 贪吃蛇\src\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\BaiduNetdiskDownload\2012-03-19 贪吃蛇\src\Snake\obj\x86\Debug\Snake.exe
 C:\BaiduNetdiskDownload\2012-03-19 贪吃蛇\src\Snake\obj\x86\Debug\Snake.pdb
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\bin\Debug\Snake.exe
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\bin\Debug\Snake.pdb
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.FormMain.resources
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.exe
+C:\Users\Public\temp\simplecoding\project\git\snake\src\Snake\obj\x86\Debug\Snake.pdb
