@@ -151,7 +151,7 @@ namespace Snake
             this.PaintPalette(this.graghics);
         }
 
-        public void PaintPalette(Graphics gp)
+        public void PaintPalette(Graphics gp) 
         {
             gp.Clear(this.bgcolor);
             this.food.Paint(gp);
